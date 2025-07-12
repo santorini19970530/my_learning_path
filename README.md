@@ -57,6 +57,8 @@ The book covers a wide range of topics from basic to more advanced concepts, inc
 
 ## SQL
 
+## OOP and UML
+
 ## ASP.NET VB Script
 
 ## Excel
@@ -69,4 +71,20 @@ The book covers a wide range of topics from basic to more advanced concepts, inc
 
 ## C++
 
+[C++ Primer]()
+
 ## Python
+
+[Python Crash Course](https://github.com/santorini19970530/python_crash_course_revision)
+
+[Python Distrilled]()
+
+[Automate The Boring Stuff with Python]()
+
+[The Natural Language Tool Kit Library]()
+
+[Text Analytics with Python]()
+
+[Data Analysis with Python]()
+
+[Python Finance Cookbook]()
