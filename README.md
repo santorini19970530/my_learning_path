@@ -77,7 +77,7 @@ The book covers a wide range of topics from basic to more advanced concepts, inc
 
 [Python Crash Course](https://github.com/santorini19970530/python_crash_course_revision)
 
-[Python Distrilled]()
+[Python Distrilled](https://github.com/santorini19970530/python_distilled_summary)
 
 [Automate The Boring Stuff with Python]()
 
